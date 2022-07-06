@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **CarlosLamasB/CarlosLamasB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Carlos Lamas</h1>
+
+<p> Soy Carlos. Soy un ingeniero mecanico y  soy un desarrollador FullStack Developer.
+Me manejo en estas tecnologias: HTML, CSS, JS, React, Redux, Express, Sequelize y PostrgresSQL
+
+</p>
