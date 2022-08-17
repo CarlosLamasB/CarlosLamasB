@@ -35,6 +35,9 @@ PI-Dogs: Ordenar, Filtrar y Crear Razas de Perros.
 ![Screenshot (421)](https://user-images.githubusercontent.com/66544930/177839846-814e258e-cbc4-4c9d-a55f-368eec2e9339.png)
 
 ![Screenshot (420)](https://user-images.githubusercontent.com/66544930/177839620-936535eb-3ccf-439a-92d3-619fc6929c90.png)
-
+Puedes contactar conmigo a traves de:
+carloslamas3.0@gmail.com y
+<a href="https://twitter.com/SoloUnCarlitos" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3034walter" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/carlos-lamas-32a308121/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wal-hernandez-dev" height="30" width="40" style="max-width: 100%;"></a>
 
 </p>
