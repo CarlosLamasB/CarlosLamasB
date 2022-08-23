@@ -33,9 +33,9 @@ PI-Dogs: Ordenar, Filtrar y Crear Razas de Perros.
 Paginado:
 
 ![Screenshot (421)](https://user-images.githubusercontent.com/66544930/177839846-814e258e-cbc4-4c9d-a55f-368eec2e9339.png)
-Formulario de Creacion de las razas
+Formulario de Creación de las razas
 ![Screenshot (420)](https://user-images.githubusercontent.com/66544930/177839620-936535eb-3ccf-439a-92d3-619fc6929c90.png)
-Puedes contactar conmigo a traves de:
+Puedes contactar conmigo a través de:
 carloslamas3.0@gmail.com 
 <br>
 y mis redes:
