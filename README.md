@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h1> Carlos Lamas</h1>
 
-<p> Soy Carlos. Soy un ingeniero mecanico y  soy un desarrollador FullStack Developer.
-Me manejo en estas tecnologias: HTML, CSS, JS, React, Redux, Express, Sequelize y PostrgresSQL
+<p> Soy Carlos. Soy un ingeniero mecánico y  soy un desarrollador FullStack Developer.
+Me manejo en estas tecnologías: HTML, CSS, JS, React, Redux, Express, Sequelize y PostrgresSQL
 
-Aqui muestro algunos proyectos en los que he trabajado usando enunciados de frontendmentor y mientras realizaba el curso de Henry:
+Aquí muestro algunos proyectos en los que he trabajado usando enunciados de frontendmentor y mientras realizaba el curso de Henry:
 
 Carta de Cuatro Secciones
 ![Screenshot (411)](https://user-images.githubusercontent.com/66544930/177835105-0a219a39-e61e-40cf-8f30-1ab4970bb678.png)
